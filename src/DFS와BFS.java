@@ -41,7 +41,7 @@ public class DFS와BFS {
     }
 
     private static void BFS(int node) {  // BFS구현
-        Queue<Integer> queue = new LinkedList<Integer>();
+        Queue<Integer> queue = new LinkedList<>();
         queue.add(node);
         visited[node] = true;
 
