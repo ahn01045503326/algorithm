@@ -1,4 +1,4 @@
-// N개의 수가 주어졌을 때 이를 오름차순 정렬하는 프로그램을 작성하시오
+package test;// N개의 수가 주어졌을 때 이를 오름차순 정렬하는 프로그램을 작성하시오
 
 import java.util.Scanner;
 public class Ex000 {
