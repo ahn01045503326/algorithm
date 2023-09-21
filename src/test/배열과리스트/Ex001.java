@@ -1,4 +1,4 @@
-package test;
+package test.배열과리스트;
 
 import java.util.Scanner;
 
